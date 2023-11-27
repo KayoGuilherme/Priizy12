@@ -3,7 +3,7 @@
   <ul type='disc'>
     <li>Atualmente me encontro <strong>desempregado</strong>.</l1>
     <li> Estou Estudando <strong>BackEnd mais especificamente NodeJs - Express com Typescript | MYSQL | SQL | POSTGRESS | NestJs</strong>
-    <li>2/3 Curso técnico profissionalizante de informática.</li>
+    
     
 </div>
 
