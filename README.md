@@ -1,4 +1,4 @@
-<h1>Olá. Meu Nome é Kayo, sou um desenvolvedor Web BackEnd!!!</h1>
+<h1>Olá. Meu Nome é Kayo, sou um desenvolvedor Web</h1>
 <div>
   <ul type='disc'>
     <li>Atualmente me encontro <strong>desempregado</strong>.</l1>
