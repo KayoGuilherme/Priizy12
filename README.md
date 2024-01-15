@@ -1,35 +1,43 @@
-<h1>Olá. Meu Nome é Kayo, sou um desenvolvedor Web</h1>
-<div>
-  <ul type='disc'>
-    <li>Atualmente me encontro <strong>desempregado</strong>.</l1>
-    <li> Estou Estudando <strong>BackEnd mais especificamente NodeJs - Express com Typescript | MYSQL | SQL | POSTGRESS | NestJs</strong>
-    
-    
-</div>
+
+![](https://komarev.com/ghpvc/?username=jpcairesf&color=006bed)
+
+<h3> :man: &nbsp;About me</h3>
+
+ Olá Me chamo Kayo Guilherme e sou um desenvolvedor back-end mid Level, Atualmente tenho 17 anos e sou estudante de uma escola tecnica cursando informatica. Sou apaixonado por resolver problemas e aprender novas tecnologias. Estou sempre em busca de novos desafios e oportunidades para crescer. Acredito firmemente que o aprendizado é um processo contínuo e estou constantemente buscando expandir meu conjunto de habilidades.
+ No mais é isso,  Sinta-se à vontade para entrar em contato ou contribuir para meus projetos. Vamos juntos moldar o futuro da tecnologia! 💻🚀
+
+<h3> :rocket: &nbsp;Skills </h3>
+
+**Languages and Frameworks**
 
 
-
-</ul>
-<div align="center">
-  <a href="https://github.com/Priizy12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priizy12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priizy12&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Kayo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kayo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-    <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-
-    
- </div>
-  
-##
-  
-  <div align="center"> 
-  <a href="https://instagram.com/guilhermepz7_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kayyogui87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)
+  ![NodeJs](https://img.shields.io/badge/NodeJs-6DB33F?style=for-the-badge&logo=NodeJs&logoColor=white)
+  ![NestJs](https://img.shields.io/badge/NestJs-b81414?style=for-the-badge&logo=NestJs&logoColor=white)
  
-</div>
+  
+**Database**
+
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-133331?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+**Developing Tools**
+
+  ![Insomnia](https://img.shields.io/badge/Insomnia-6f00ff?style=for-the-badge&logo=Insomnia&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  
+<br/>
+
+<a href="https://github.com/Priizy12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priizy12&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Contacts </h3> 
+
+[![Linkedin: Kayo](https://img.shields.io/badge/-Kayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kayo-silva-661337291)](www.linkedin.com/in/kayo-silva-661337291)
+[![Gmail Badge](https://img.shields.io/badge/-kayyogui87@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=kayyogui87@gmail.com)](kayyogui87@gmail.com)
