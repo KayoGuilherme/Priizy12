@@ -14,7 +14,7 @@
   ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)
   ![NodeJs](https://img.shields.io/badge/NodeJs-6DB33F?style=for-the-badge&logo=NodeJs&logoColor=white)
   ![NestJs](https://img.shields.io/badge/NestJs-b81414?style=for-the-badge&logo=NestJs&logoColor=white)
-   ![ReactJs](https://img.shields.io/badge/ReactJs-b81414?style=for-the-badge&logo=ReactJs&logoColor=white)
+   ![ReactJs](https://img.shields.io/badge/React-ADD8E6?style=for-the-badge&logo=React&logoColor=white)
  
   
 **Database**
