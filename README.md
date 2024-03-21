@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;About me</h3>
 
  Olá Me chamo Kayo Guilherme e sou um desenvolvedor de software mid Level, Atualmente tenho 17 anos e sou estudante de uma escola tecnica cursando informatica. Sou apaixonado por resolver problemas e aprender novas tecnologias. Estou sempre em busca de novos desafios e oportunidades para crescer. Acredito firmemente que o aprendizado é um processo contínuo e estou constantemente buscando expandir meu conjunto de habilidades.
- No mais é isso,  Sinta-se à vontade para entrar em contato ou contribuir para meus projetos. Vamos juntos moldar o futuro da tecnologia! 💻🚀
+ No mais é isso,  Sinta-se à vontade para entrar em contato ou contribuir para meus projetos.
 
 <h3> :rocket: &nbsp;Skills </h3>
 
@@ -14,16 +14,14 @@
   ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)
   ![NodeJs](https://img.shields.io/badge/NodeJs-6DB33F?style=for-the-badge&logo=NodeJs&logoColor=white)
   ![NestJs](https://img.shields.io/badge/NestJs-b81414?style=for-the-badge&logo=NestJs&logoColor=white)
-   ![ReactJs](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white)
+  ![ReactJs](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white)
  
   
 **Database**
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-133331?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
+ 
 
 **Developing Tools**
 
