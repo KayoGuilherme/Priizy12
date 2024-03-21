@@ -37,6 +37,3 @@
 <br/>
 
 <h3> :earth_americas: &nbsp;Contacts </h3> 
-
-[![Linkedin: Kayo](https://img.shields.io/badge/-Kayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kayo-silva-661337291)](www.linkedin.com/in/kayo-silva-661337291)
-[![Gmail Badge](https://img.shields.io/badge/-kayyogui87@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=kayyogui87@gmail.com)](kayyogui87@gmail.com)
