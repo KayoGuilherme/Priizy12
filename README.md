@@ -13,7 +13,7 @@
 
   ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)
   ![Typescript](https://img.shields.io/badge/Typescript-3b8eed?style=for-the-badge&logo=Typescript&logoColor=white)
-  ![NodeJs](https://img.shields.io/badge/NodeJs-6DB33F?style=for-the-badge&logo=NodeJs&logoColor=white)
+  ![NodeJs](https://img.shields.io/badge/NodeJs-6DB33F?style=for-the-badge&logo=Nodejs&logoColor=white)
   ![NestJs](https://img.shields.io/badge/NestJs-b81414?style=for-the-badge&logo=NestJs&logoColor=white)
 
  
