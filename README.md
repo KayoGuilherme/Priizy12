@@ -28,7 +28,7 @@
 
   ![Insomnia](https://img.shields.io/badge/Insomnia-6f00ff?style=for-the-badge&logo=Insomnia&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-ED8B00?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-3b8eed?style=for-the-badge&logo=Docker&logoColor=white)
   
 <br/>
 
