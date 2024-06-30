@@ -29,6 +29,10 @@
   ![Insomnia](https://img.shields.io/badge/Insomnia-6f00ff?style=for-the-badge&logo=Insomnia&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-3b8eed?style=for-the-badge&logo=Docker&logoColor=white)
+
+  ##
+
+ 
   
 <br/>
 
@@ -39,3 +43,7 @@
 <br/>
 
 <h3> :earth_americas: &nbsp;Contacts </h3> 
+  <div align="flex-start"> 
+  <a href = "mailto:kayyogui87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/kayo-guilherme-661337291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
