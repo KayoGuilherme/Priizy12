@@ -10,11 +10,13 @@
 
 **Languages and Frameworks**
 
+![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3b8eed?style=for-the-badge&logo=Typescript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/NodeJs-6DB33F?style=for-the-badge&logo=NodeJs&logoColor=white)
+![NestJs](https://img.shields.io/badge/NestJs-b81414?style=for-the-badge&logo=NestJs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1C?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-  ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=Javascript&logoColor=white)
-  ![Typescript](https://img.shields.io/badge/Typescript-3b8eed?style=for-the-badge&logo=Typescript&logoColor=white)
-  ![NodeJs](https://img.shields.io/badge/NodeJs-6DB33F?style=for-the-badge&logo=NodeJs&logoColor=white)
-  ![NestJs](https://img.shields.io/badge/NestJs-b81414?style=for-the-badge&logo=NestJs&logoColor=white)
 
  
   
