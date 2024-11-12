@@ -3,7 +3,7 @@
 
 <h3> :man: &nbsp;About me</h3>
 
- Olá Me chamo Kayo Guilherme e sou um desenvolvedor de software mid Level, Atualmente tenho 17 anos e sou estudante de uma escola tecnica cursando informatica. Sou apaixonado por resolver problemas e aprender novas tecnologias. Estou sempre em busca de novos desafios e oportunidades para crescer. Acredito firmemente que o aprendizado é um processo contínuo e estou constantemente buscando expandir meu conjunto de habilidades.
+ Olá Me chamo Kayo Guilherme e sou um desenvolvedor de software mid Level, Atualmente tenho 18 anos e sou estudante de uma escola tecnica cursando informatica. Sou apaixonado por resolver problemas e aprender novas tecnologias. Estou sempre em busca de novos desafios e oportunidades para crescer. Acredito firmemente que o aprendizado é um processo contínuo e estou constantemente buscando expandir meu conjunto de habilidades.
  No mais é isso,  Sinta-se à vontade para entrar em contato ou contribuir para meus projetos.
 
 <h3> :rocket: &nbsp;Skills </h3>
